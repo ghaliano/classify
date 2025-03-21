@@ -57,5 +57,3 @@ To stop the containers, press `Ctrl+C` in the terminal or run:
 ```bash
 docker-compose down
 ```
-
-### Your application is now fully containerized and ready to use!
