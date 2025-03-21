@@ -22,11 +22,9 @@
 ├── docker-compose.yml
 ```
 
-2. **Setup Files**
+2. **Setup**
 
-- Save the backend `Dockerfile`, `app.py`, `text_classifier.py`, and `requirements.txt` in the `/backend` folder.
-- Save the frontend `Dockerfile`, `App.jsx`, `package.json`, and `package-lock.json` in the `/frontend` folder.
-- Save the `docker-compose.yml` file at the root of the `/your-project` folder.
+- Install teh project
 
 3. **Build and Run the Containers**
 
